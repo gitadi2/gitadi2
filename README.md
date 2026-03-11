@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Aditya Satapathy</h1>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="362" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
