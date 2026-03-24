@@ -1,5 +1,8 @@
 <h1 align="left">Hi 👋, I'm Aditya Satapathy</h1>
 
+<h1>Data Science & ML Enthusiast | B.Tech CSE Undergrad @ Bharati Vidyapeeth University College Of Engineering, Pune</h1>
+<h3>'I'm a 3rd-year B.Tech CSE Undergrad. I build production-grade data pipelines and machine learning systems. Currently interning as a Data Science Intern at Zeno Talent and actively contributing to open source.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <h3 align="left">Connect with me:</h3>
