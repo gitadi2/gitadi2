@@ -4,9 +4,24 @@
 
 <h2 align="left">Data Science & ML Enthusiast | B.Tech CSE Undergrad @ Bharati Vidyapeeth University College Of Engineering, Pune</h2>
 
-
 ###
-<img align="center" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="middle" align="center">
+  <img alt="Coding" width="600" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</td>
+<td width="2" style="background-color:#888;"></td>
+<td width="50%" valign="middle" align="center">
+
+<h2>CONNECT WITH ME</h2>
+
+<p align="center"><a href="https://github.com/gitadi2" target="blank"><img align="center" src="https://cdn.simpleicons.org/github/white" alt="github" height="50" width="50" /></a><img width="20" /><a href="https://linkedin.com/in/adisatapathy" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="50" /></a><img width="20" /><a href="mailto:satgriezeleo1007@gmail.com" target="blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="50" width="50" /></a></p>
+
+
+</td>
+</tr>
+</table>
 
 ###
 
@@ -121,10 +136,8 @@
 </div>
 <br>
 
-
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=gitadi2&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> 
   <img width="15" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitadi2&locale=en&hide_title=false&layout=compact&card_width=290&langs_count=10&theme=codeSTACKr&hide_border=false&order=2&custom_title=Languages%20Used" height="200" alt="languages graph"  />
- </div>
-
+</div>
