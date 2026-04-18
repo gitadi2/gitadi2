@@ -121,18 +121,18 @@
 </div>
 <br>
 
-<h2 align="left">MY CONTRIBUTIONS</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitadi2&theme=react-dark&bg_color=0d1117&color=e60000&line=ffcc00&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Marvel themed contribution graph" />
-</div>
-
-###
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=gitadi2&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> 
   <img width="15" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitadi2&locale=en&hide_title=false&layout=compact&card_width=290&langs_count=10&theme=codeSTACKr&hide_border=false&order=2&custom_title=Languages%20Used" height="200" alt="languages graph"  />
  </div>
+
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gitadi2/gitadi2/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+###
