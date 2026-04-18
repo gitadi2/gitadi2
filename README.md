@@ -1,19 +1,115 @@
 <h1 align="left">Hi 👋, I'm Aditya Satapathy</h1>
 
-<h3 align="left">Data Science & ML Enthusiast | B.Tech CSE Undergrad @ Bharati Vidyapeeth University College Of Engineering, Pune</h3>
+###
 
-I'm a 3rd-year B.Tech CSE Undergrad. I build production-grade data pipelines and machine learning systems. Currently interning as a Data Science Intern @ Zeno Talent and actively contributing to open source.
+<h2 align="left">Data Science & ML Enthusiast | B.Tech CSE Undergrad @ Bharati Vidyapeeth University College Of Engineering, Pune</h2>
 
-<div align="center"><img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></div>
 
-### Connect with me:
+###
+<img align="center" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<div align="left"><a href="https://github.com/gitadi2" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gitadi2" height="30" width="40" /></a> <a href="https://linkedin.com/in/adisatapathy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adisatapathy" height="30" width="40" /></a> <a href="mailto:satgriezeleo1007@gmail.com" target="blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="gmail" height="30" width="40" /></a></div>
+###
 
-### Languages and Tools:
+<h2 align="left">ABOUT ME</h2>
 
-<div align="left"><a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/></a> <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/></a> <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a> <a href="https://www.chartjs.org" target="_blank"><img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/></a> <a href="https://www.cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a> <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/></a> <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a> <a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a> <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a> <a href="https://keras.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/></a> <a href="https://www.mathworks.com/" target="_blank"><img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/></a> <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a> <a href="https://mlflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a> <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a> <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a> <a href="https://docs.pytest.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a> <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/></a> <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/></a> <a href="https://www.selenium.dev" target="_blank"><img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/></a> <a href="https://shap.readthedocs.io/" target="_blank"><img src="https://raw.githubusercontent.com/shap/shap/master/docs/artwork/shap_logo.png" alt="shap" width="40" height="40"/></a> <a href="https://streamlit.io/" target="_blank"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/></a> <a href="https://www.tableau.com/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/></a> <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/></a> <a href="https://the-algorithms.com/" target="_blank"><img src="https://raw.githubusercontent.com/TheAlgorithms/website/main/public/logo.svg" alt="dsa" width="40" height="40"/></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/></a> <a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="xgboost" width="40" height="40"/></a> <a href="https://lightgbm.readthedocs.io/" target="_blank"><img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" alt="lightgbm" width="70" height="40"/></a></div>
+###
 
----
+<h3 align="left">I'm a 3rd-year B.Tech CSE Undergrad. I build production-grade data pipelines and machine learning systems. Currently interning as a Data Science Intern @ Zeno Talent and actively contributing to open source.</h3>
 
-<div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gitadi2&" alt="gitadi2" /></div>
+###
+
+<h2 align="left">LANGUAGES & TOOLS</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" height="40" alt="thealgorithms logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
+</div>
+<br>
+
+
+###
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=gitadi2&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> 
+  <img width="15" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitadi2&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=10&theme=codeSTACKr&hide_border=false&order=2&custom_title=Languages%20Used" height="200" alt="languages graph"  />
+ </div>
+  
