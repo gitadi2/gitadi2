@@ -128,11 +128,3 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitadi2&locale=en&hide_title=false&layout=compact&card_width=290&langs_count=10&theme=codeSTACKr&hide_border=false&order=2&custom_title=Languages%20Used" height="200" alt="languages graph"  />
  </div>
 
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gitadi2/gitadi2/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-###
