@@ -85,6 +85,22 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" height="40" alt="chartjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/shap/shap/master/docs/artwork/shap_logo.png" height="40" alt="shap logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="tableau logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="keras logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -105,11 +121,18 @@
 </div>
 <br>
 
+<h2 align="left">MY CONTRIBUTIONS</h2>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitadi2&theme=react-dark&bg_color=0d1117&color=e60000&line=ffcc00&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Marvel themed contribution graph" />
+</div>
+
+###
+
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=gitadi2&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> 
   <img width="15" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitadi2&locale=en&hide_title=false&layout=compact&card_width=290&langs_count=10&theme=codeSTACKr&hide_border=false&order=2&custom_title=Languages%20Used" height="200" alt="languages graph"  />
  </div>
-  
