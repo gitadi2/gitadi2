@@ -139,5 +139,12 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=gitadi2&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> 
   <img width="15" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitadi2&locale=en&hide_title=false&layout=compact&card_width=290&langs_count=10&theme=codeSTACKr&hide_border=false&order=2&custom_title=Languages%20Used" height="200" alt="languages graph"  />
-</div>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gitadi2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gitadi2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
