@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Data Science & ML Enthusiast | B.Tech CSE Undergrad @ Bharati Vidyapeeth University College Of Engineering, Pune</h2>
+<h2 align="left">SDE/SWE & Data Science Enthusiast | B.Tech CSE Undergrad @ Bharati Vidyapeeth University College Of Engineering, Pune</h2>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">I'm a 3rd-year B.Tech CSE Undergrad. I build production-grade data pipelines and machine learning systems. Currently interning as a Data Science Intern @ Zeno Talent and actively contributing to open source.</h3>
+<h3 align="left">I'm a final-year B.Tech CSE Undergrad. I build production-grade data pipelines and machine learning systems. Currently interning as a Data Science Intern @ Zeno Talent and actively contributing to open source.</h3>
 
 ###
 
