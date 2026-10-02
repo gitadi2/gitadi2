@@ -22,7 +22,7 @@
 I'm a final-year CSE undergraduate passionate about scalable software, problem-solving and real-world machine learning. Aspiring SDE/SWE and Data Science professional.
 
 ### 🏆 Competitive Programming
-- **LeetCode:** Max Rating **1943 (Knight)**
+- **LeetCode:** Max Rating **1950 (Knight)**
 - **CodeChef:** Max Rating **1545 (2★)**
 - **Codeforces:** Max Rating **1366 (Pupil)**
 
