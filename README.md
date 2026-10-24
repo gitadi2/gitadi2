@@ -1,7 +1,7 @@
 # <img src="https://i.pinimg.com/originals/6d/80/2f/6d802ffd14b32795b4deb0b886a7815a.gif" width="230" alt="tech gif" />Aditya Satapathy here
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=950&lines=B.Tech+CSE+Undergrad+%40+Bharati+Vidyapeeth+College+of+Engineering%2C+Pune%2C+India;Forward+Program+Apprentice+%40+McKinsey+%26+Company;Ex-Data+Science+Intern+%40+Zeno+Talent;SWE%2FSDE+and+Data+Science+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=950&lines=B.Tech+CSE+Undergrad+%40+Bharati+Vidyapeeth+College+of+Engineering%2C+Pune%2C+India;Forward+Program+Apprentice+%40+McKinsey+%26+Company;Ex-Data+Science+Intern+%40+Zeno+Talent;SWE%2FSDE+and+Data+Science+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
