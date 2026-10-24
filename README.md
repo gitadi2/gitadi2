@@ -1,21 +1,23 @@
 # Hi there 👋, Aditya Satapathy here
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=950&lines=B.Tech+CSE+Undergrad+%40+Bharati+Vidyapeeth+College+of+Engineering%2C+Pune%2C+India;Forward+Program+Fellow+%40+McKinsey+%26+Company;Ex-Data+Science+Intern+%40+Zeno+Talent;SWE%2FSDE+and+Data+Science+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=950&lines=B.Tech+CSE+Undergrad+%40+Bharati+Vidyapeeth+College+of+Engineering%2C+Pune%2C+India;Forward+Program+Apprentice+%40+McKinsey+%26+Company;Ex-Data+Science+Intern+%40+Zeno+Talent;SWE%2FSDE+and+Data+Science+Engineer" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 CONNECT WITH ME
 
-<a href="https://linkedin.com/in/adisatapathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adisatapathy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/adi_sat_2518" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adi_sat_2518" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/adicodeforces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adicodeforces" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adileet10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adileet10" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/satgrieze2ksz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satgrieze2ksz" height="30" width="40" /></a>
+<p align="left">
+  <a href="mailto:satgriezeleo1007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/adisatapathy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/imAdiSat1810"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.codechef.com/users/adi_sat_2518"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://codeforces.com/profile/adicodeforces"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.leetcode.com/adileet10"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/satgrieze2ksz"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
----
 
 ## 🚀 ABOUT ME
 
